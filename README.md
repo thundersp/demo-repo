@@ -4,11 +4,14 @@
 df
 
 
-People not added files till now"
+Is everyone ready to code
 
 
+i will create a new repo 
 
-no money shall be given;)
+
+be comfort with this first tho
+
 
 df
 ## this is a new change
