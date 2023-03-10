@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-    not ok;
+    int ok;
     return 0;
 }
