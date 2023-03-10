@@ -2,5 +2,4 @@
 int main(){
 printf("finally git ala");
 printf("\nhey");
-return 0;
-}
+return 0;}
